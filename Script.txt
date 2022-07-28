@@ -1,0 +1,18 @@
+-- i spent a long time making this so if you complain stfu
+
+local message = Instance.new("Message",workspace)
+message.Text = "big black nigga balls"
+wait(2)
+message.Text = "hd"
+wait(4)
+message.Text = "gang weed mlg"
+wait(3)
+message.Text = "dobe"
+wait(1)
+message.Text = "..."
+wait(3)
+message.Text = "FUUCK"
+wait(3)
+message.Text = "made by diamind"
+wait (0.5)
+message:Destroy()
