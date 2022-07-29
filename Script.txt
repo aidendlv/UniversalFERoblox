@@ -4,7 +4,7 @@ local message = Instance.new("Message",workspace)
 message.Text = "big black nigga balls"
 wait(2)
 message.Text = "hd"
-wait(4)
+wait(2)
 message.Text = "gang weed mlg"
 wait(3)
 message.Text = "dobe"
